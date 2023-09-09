@@ -33,5 +33,13 @@
 } 
 
 
+.text-stroke-3 {
+  -webkit-text-stroke: 1px white;
+}
+
+.text-stroke-2{
+  -webkit-text-stroke: 1px red;
+}
+
 
 
